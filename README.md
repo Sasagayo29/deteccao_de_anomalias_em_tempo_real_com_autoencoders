@@ -43,8 +43,15 @@ O produto final é um dashboard em `streamlit` que simula um cenário de monitor
 * Plota o Erro de Reconstrução em um gráfico de linha.
 * Exibe um alerta visual (vermelho) e um status de "ANOMALIA DETECTADA" sempre que o erro ultrapassa o limiar.
 
-*(Exemplo do Dashboard em ação)*
-`![Dashboard de Detecção de Anomalias](dashboard_demo.png)`
+### *Exemplo do Dashboard em ação:*
+
+#### - Anomalia:
+<img width="1917" height="966" alt="image" src="https://github.com/user-attachments/assets/62992fae-0025-4c44-8840-2f55ba499f56" />
+
+#### - Normalizado:
+<img width="1917" height="970" alt="image" src="https://github.com/user-attachments/assets/f91266cf-4c4f-4feb-b5f7-451c773a81e0" />
+<img width="1914" height="967" alt="image" src="https://github.com/user-attachments/assets/7bb64c9c-a5d4-40bb-b438-f6bff0984fa7" />
+
 
 ## 5. Tech Stack (Tecnologias Utilizadas)
 
