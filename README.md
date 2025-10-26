@@ -1,4 +1,4 @@
-# Projeto 2: Detecção de Anomalias em Tempo Real com Autoencoder (LSTM)
+# Detecção de Anomalias em Tempo Real com Autoencoder (LSTM)
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)
