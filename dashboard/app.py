@@ -61,7 +61,6 @@ def load_simulation_data(_scaler_obj):
         PROJECT_ROOT = SCRIPT_DIR.parent
         DATA_ROOT = PROJECT_ROOT / "data" / "raw"
 
-        # --- CORREÇÃO 2: Trocado "01.csv" por "1.csv" ---
         DATA_PATH = DATA_ROOT / "1.csv"
 
         df = pd.read_csv(DATA_PATH, sep=';', parse_dates=[
